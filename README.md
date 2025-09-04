@@ -53,7 +53,7 @@
 
 ```bash
 # 1) Clone
-git clone https://github.com/<org-or-user>/<repo>.git
+git clone https://github.com/nblaznik/BECplorer.git
 cd <repo>
 
 # 2) Create env
