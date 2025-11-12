@@ -1,5 +1,5 @@
 <h1 align="center">
-  BECplorer — BEC Data Visualiser
+  BECsplorer — BEC Data Visualiser
 </h1>
 
 <img align="left" width="128" height="128" alt="icon" src="https://github.com/user-attachments/assets/b66db70b-0979-4a14-be07-a72687521d06">
@@ -53,7 +53,7 @@
 
 ```bash
 # 1) Clone
-git clone https://github.com/nblaznik/BECplorer.git
+git clone https://github.com/nblaznik/BECsplorer.git
 cd <repo>
 
 # 2) Create env
